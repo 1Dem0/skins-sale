@@ -1,0 +1,56 @@
+[
+    {
+    	"id":"el1",
+    	"name": "AK-47|Неоновая революция",
+    	"img": "assets/images/1.png",
+    	"price": 10000
+    },
+    {
+    	"id":"el2",
+    	"name": "AK-47|Вулкан",
+    	"img": "assets/images/2.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el3",
+    	"name": "AK-47|Поверхностная закалка",
+    	"img": "assets/images/3.png",
+    	"price": 20000
+    },
+    {
+    	"id":"el4",
+    	"name": "AWP|Азимов",
+    	"img": "assets/images/4.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el5",
+    	"name": "AWP|История о драконе",
+    	"img": "assets/images/5.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el6",
+    	"name": "AWP|Медуза",
+    	"img": "assets/images/6.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el7",
+    	"name": "M4A4|Посейдон",
+    	"img": "assets/images/7.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el8",
+    	"name": "M4A4|Азимов",
+    	"img": "assets/images/8.png",
+    	"price": 15000
+    },
+    {
+    	"id":"el9",
+    	"name": "M4A4|Неонуар",
+    	"img": "assets/images/9.png",
+    	"price": 15000
+    }
+]
